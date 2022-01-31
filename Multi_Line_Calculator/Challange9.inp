@@ -1,0 +1,4 @@
+A = 2
+B = 3
+LOOP C = (C * 4)+9*A * B TIMES 8
+OUT C
